@@ -24,11 +24,9 @@ Quickly fund up to 50 Solana wallets per transaction. Keep private keys secure i
 
 ##### [required] [array]
 
-`wallets`: Array of wallet objects to be funded.
-`[{`
-&nbsp;&nbsp;&nbsp;&nbsp;`string: publicKey`: Fund recipient wallet address.
-&nbsp;&nbsp;&nbsp;&nbsp;`string: amount`: SOL amount to receive.
-`}]`
+`wallets`: Array of wallet objects to be funded.  
+`string: publicKey`: Fund recipient wallet address.  
+`string: amount`: SOL amount to receive.
 
 ---
 
