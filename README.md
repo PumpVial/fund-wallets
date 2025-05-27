@@ -1,4 +1,4 @@
-# Fund Solana Wallets
+# 🧪 Fund Solana Wallets 🧪
 
 Quickly fund up to 50 Solana wallets per transaction. Keep private keys secure in your own code, and sign transaction locally.
 
@@ -6,7 +6,7 @@ Quickly fund up to 50 Solana wallets per transaction. Keep private keys secure i
 
 ## Prerequisites
 
-- Get your free API key from https://pumpvial.com
+- Get your free API key from pumpvial.com
 
 ---
 
@@ -36,8 +36,8 @@ Quickly fund up to 50 Solana wallets per transaction. Keep private keys secure i
 
 ---
 
-Need help? Hop in our Discord: https://discord.gg/WBmZss3jQq
-Docs: https://pumpvial.com/https/fund-wallets
+Need help? Hop in our Discord: discord.gg/WBmZss3jQq  
+Official Docs: pumpvial.com/https/fund-wallets
 
 ---
 
