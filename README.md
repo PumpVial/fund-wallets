@@ -16,7 +16,7 @@ Quickly fund up to 50 Solana wallets per transaction. Keep private keys secure i
 
 ---
 
-#### Request
+## Request
 
 ##### [required] [object]
 
@@ -30,13 +30,14 @@ Quickly fund up to 50 Solana wallets per transaction. Keep private keys secure i
 
 ---
 
-#### Response
+## Response
 
 `string: serializedTransaction`: Unsigned base64 encoded transaction.
 
 ---
 
 Need help? Hop in our Discord: https://discord.gg/WBmZss3jQq
+Docs: https://pumpvial.com/https/fund-wallets
 
 ---
 
