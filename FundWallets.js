@@ -22,7 +22,7 @@ const payload = {
 };
 
 const fundWallets = async () => {
-  const URL = "https://pumpvial.com/api/fund-wallets";
+  const URL = "https://api.pumpvial.com/fund-wallets";
 
   try {
     const request = await axios.post(URL, payload, {
